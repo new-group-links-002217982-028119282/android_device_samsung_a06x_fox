@@ -1,0 +1,7 @@
+ro.display.series=Galaxy A06 5G
+ro.product.board=a06x
+ro.board.platform=mt6835
+# vendor.usb.use_ffs_mtp=1
+sys.usb.controller=11201000.usb0
+ro.boot.dynamic_partitions=true
+sys.usb.config=mtp
